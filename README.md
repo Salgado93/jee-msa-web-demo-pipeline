@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 ### If you have any questions or suggestions, please feel free to contact me:
 * Name: Jeferson Villacís
-* E-Mail: jefersonvillacis@hotmail.com 
+* E-Mail: danielsalgado@unitec.edu 
 * GitHub: https://github.com/jefersonvillacis
 * LinkedIn: https://www.linkedin.com/in/jefersonvillacis
 
